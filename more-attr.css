@@ -1,2 +1,19 @@
-  width: 100% !important;
-  height: 100% !important;
+//!important
+width: 100% !important;
+height: 100% !important;
+
+//filter
+//img
+img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+//div
+div {
+    opacity: 0.3;
+    filter: alpha(opacity=30); /* For IE8 and earlier */
+}
+
+//transparent
+background-color: transparent;
+
