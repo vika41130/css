@@ -21,3 +21,10 @@ background-color: transparent;
 input[type=checkbox],
 input[type=radio] {
 }
+
+//cursor
+https://css-tricks.com/almanac/properties/c/cursor/
+//custom
+.custom {
+  cursor: url(images/my-cursor.png), auto;
+}
