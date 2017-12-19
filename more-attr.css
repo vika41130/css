@@ -17,3 +17,7 @@ div {
 //transparent
 background-color: transparent;
 
+//tags
+input[type=checkbox],
+input[type=radio] {
+}
