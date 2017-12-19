@@ -1,0 +1,24 @@
+//link: https://web-design-weekly.com/2014/11/18/viewport-units-vw-vh-vmin-vmax/
+//search: width:5vw
+
+//code
+.vw5{width:5vw;}
+.vw10{width:10vw;}
+.vw15{width:15vw;}
+.vw20{width:20vw;}
+.vw25{width:25vw;}
+.vw30{width:30vw;}
+.vw35{width:35vw;}
+.vw40{width:40vw;}
+.vw45{width:45vw;}
+.vw50{width:50vw;}
+.vw55{width:55vw;}
+.vw60{width:60vw;}
+.vw65{width:65vw;}
+.vw70{width:70vw;}
+.vw75{width:75vw;}
+.vw80{width:80vw;}
+.vw85{width:85vw;}
+.vw90{width:90vw;}
+.vw95{width:95vw;}
+.vw100{width:100vw;}
