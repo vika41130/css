@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 960px;
+  margin: 30px auto;
+}
+
+#container img {
+  width: 300px;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#container .paragraph-1 {}
+
+#container .paragraph-2 {
+  clear: left;
+}
+
+.div_1, .div_2, .div_3 {
+  height: 100px;
+}
+
+.div_1 {
+  background: #ddd;
+  width: 50%;
+  float: left;
+}
+
+.div_2 {
+  background: #ccc;
+  width: 50%;
+  float: right;
+  clear: both;
+}
