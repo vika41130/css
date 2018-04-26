@@ -2,7 +2,7 @@
 @font-face
 
 #2
-import url in file .css
+import url in file .css, .scss
 
 #3
 <link/> url in file index.html
