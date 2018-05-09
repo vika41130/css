@@ -28,3 +28,8 @@ https://css-tricks.com/almanac/properties/c/cursor/
 .custom {
   cursor: url(images/my-cursor.png), auto;
 }
+
+//fill
+.segment-fill {
+    fill: $svgIconDefault;
+}
